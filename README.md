@@ -1,1 +1,1 @@
-# java_swing_game
+# java-swing-ame
