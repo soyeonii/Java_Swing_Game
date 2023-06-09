@@ -1,2 +1,16 @@
 # Java_Swing_Game
-자바로 만든 슈팅게임
+
+![image](https://github.com/soyeonii/Java_Swing_Game/assets/69310195/214a4342-ede8-48b6-8867-62dd07a6e9cf)
+![image](https://github.com/soyeonii/Java_Swing_Game/assets/69310195/1633c85f-b953-4bc5-8a2b-2c80653c4ab2)
+![image](https://github.com/soyeonii/Java_Swing_Game/assets/69310195/b1f3af2f-dcae-42b1-bf57-36431b101fbf)
+![image](https://github.com/soyeonii/Java_Swing_Game/assets/69310195/5329573d-7289-4cb0-8ddc-e132fa602576)
+![image](https://github.com/soyeonii/Java_Swing_Game/assets/69310195/c885f600-2474-44ba-bf85-7436c92a1f02)
+![image](https://github.com/soyeonii/Java_Swing_Game/assets/69310195/bd615bca-af0c-4714-86a8-a3df51eade52)
+![image](https://github.com/soyeonii/Java_Swing_Game/assets/69310195/e937b055-ebba-440c-a697-b7164794ab29)
+![image](https://github.com/soyeonii/Java_Swing_Game/assets/69310195/9dd6e2ea-885f-4fdf-8b1e-1b459cf0b9d7)
+![image](https://github.com/soyeonii/Java_Swing_Game/assets/69310195/751219f4-0fa9-403a-b13e-778611aaf8a9)
+![image](https://github.com/soyeonii/Java_Swing_Game/assets/69310195/d5e51b06-5462-45d8-847b-62c0e779be0c)
+![image](https://github.com/soyeonii/Java_Swing_Game/assets/69310195/c4672170-3788-430f-8c27-7d2bee98a63f)
+![image](https://github.com/soyeonii/Java_Swing_Game/assets/69310195/4976e6d6-12af-4829-908e-0349198c939b)
+![image](https://github.com/soyeonii/Java_Swing_Game/assets/69310195/345251ba-34ab-4ec3-9e39-a6d53d5cf474)
+![image](https://github.com/soyeonii/Java_Swing_Game/assets/69310195/6cb6bd4c-690e-4bea-aea3-fc9e2942635a)
